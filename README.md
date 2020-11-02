@@ -22,17 +22,17 @@
 ## 📫 Contacts:
 
 <p>
-  <a href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
-	<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
+	<a target="_blank" href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
+		<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
 	</a>
-	<a href="mailto:wellysonvie@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0060aa&style=flat-square&logo=microsoft%20Outlook&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/wellyson.fla">
-	<img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1673ea&style=flat-square&logo=facebook&logoColor=white">
+	<a target="_blank" href="mailto:wellysonvie@gmail.com">
+    		<img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0060aa&style=flat-square&logo=microsoft%20Outlook&logoColor=white">
+  	</a>
+  	<a target="_blank" href="https://www.facebook.com/wellyson.fla">
+		<img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1673ea&style=flat-square&logo=facebook&logoColor=white">
 	</a>
-	<a href="https://twitter.com/wellysonvie">
-	<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&style=flat-square&logo=twitter&logoColor=white">
+	<a target="_blank" href="https://twitter.com/wellysonvie">
+		<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&style=flat-square&logo=twitter&logoColor=white">
 	</a>
 </p>
 
