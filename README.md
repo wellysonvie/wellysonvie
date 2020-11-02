@@ -5,8 +5,8 @@
 -->
 ## 🤓 Profile
 - 🎓 I'm a bachelor of Computer Science
-- 🔭 I’m currently working on PHP
-- 🌱 I’m currently learning React.js e Node.js
+- 🔭 I’m currently working with PHP
+- 🌱 I’m currently learning React.js and Node.js
 
 ## 📚 Interests
 <p>
