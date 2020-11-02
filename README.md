@@ -23,19 +23,19 @@
 
 <p>
 	<a target="_blank" href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
-		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="30">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="20">
 	</a>
 	<a target="_blank" href="mailto:wellysonvie@gmail.com">
-    		<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="30">
+    		<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="20">
   	</a>
   	<a target="_blank" href="https://www.facebook.com/wellyson.fla">
-		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" width="30">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" width="20">
 	</a>
 	<a target="_blank" href="https://www.instagram.com/wellyson.vie">
-		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" width="30">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" width="20">
 	</a>
 	<a target="_blank" href="https://twitter.com/wellysonvie">
-		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg" width="30">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg" width="20">
 	</a>
 </p>
 
