@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning React.js e Node.js
 
-#### 📚 Interests
+## 📚 Interests
 <p>
 	<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" height="30" width="30">
 	<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" height="30" width="30">
@@ -19,7 +19,7 @@
 	<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" height="30" width="30">
 </p>
 
-#### 📫 Contacts:
+## 📫 Contacts:
 
 <p>
   <a href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
