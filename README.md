@@ -3,7 +3,7 @@
 <!--
 **wellysonvie/wellysonvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 🤓 Profile
+## 👨‍💻 Profile
 - 🎓 I'm a bachelor of Computer Science
 - 🔭 I’m currently working with PHP
 - 🌱 I’m currently learning React.js and Node.js
@@ -35,4 +35,7 @@
 		<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&style=flat-square&logo=twitter&logoColor=white">
 	</a>
 </p>
+
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=wellysonvie&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellysonvie&layout=compact&hide_border=true)
 
