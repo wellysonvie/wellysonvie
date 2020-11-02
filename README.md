@@ -23,19 +23,24 @@
 
 <p>
 	<a target="_blank" href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
-		<img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=2867B2&style=flat-square&logo=linkedin&logoColor=white">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="30">
 	</a>
 	<a target="_blank" href="mailto:wellysonvie@gmail.com">
-    		<img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0060aa&style=flat-square&logo=microsoft%20Outlook&logoColor=white">
+    		<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="30">
   	</a>
   	<a target="_blank" href="https://www.facebook.com/wellyson.fla">
-		<img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1673ea&style=flat-square&logo=facebook&logoColor=white">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" width="30">
+	</a>
+	<a target="_blank" href="https://www.instagram.com/wellyson.vie">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145805.svg" width="30">
 	</a>
 	<a target="_blank" href="https://twitter.com/wellysonvie">
-		<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&style=flat-square&logo=twitter&logoColor=white">
+		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg" width="30">
 	</a>
 </p>
 
+<!--
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=wellysonvie&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellysonvie&layout=compact&hide_border=true)
+-->
 
