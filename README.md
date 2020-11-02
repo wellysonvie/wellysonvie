@@ -3,20 +3,20 @@
 <!--
 **wellysonvie/wellysonvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### 🤓 Profile
+## 🤓 Profile
 - 🎓 I'm a bachelor of Computer Science
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning React.js e Node.js
 
 #### 📚 Interests
 <p>
-	<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" height="20" width="20">
-	<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" height="20" width="20">
-	<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="20" width="20">
-	<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" height="20" width="20">
-	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="20" width="20">
-	<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" height="20" width="20">
-	<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" height="20" width="20">
+	<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" height="30" width="30">
+	<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" height="30" width="30">
+	<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="30" width="30">
+	<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" height="30" width="30">
+	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="30" width="30">
+	<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" height="30" width="30">
+	<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" height="30" width="30">
 </p>
 
 #### 📫 Contacts:
