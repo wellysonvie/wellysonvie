@@ -1,14 +1,14 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=wellysonvie&color=green)
 <!--
 **wellysonvie/wellysonvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 👨‍💻 Profile
+### 👨‍💻 Profile
 - 🎓 I'm a bachelor of Computer Science
 - 🔭 I’m currently working with PHP
 - 🌱 I’m currently learning React.js and Node.js
 
-## 📚 Interests
+### 📚 Interests
 <p>
 	<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" height="30" width="30">
 	<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" height="30" width="30">
@@ -19,7 +19,7 @@
 	<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" height="30" width="30">
 </p>
 
-## 📫 Contacts:
+### 📫 Contacts:
 
 <p>
 	<a target="_blank" href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
