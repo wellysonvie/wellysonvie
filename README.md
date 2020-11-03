@@ -9,15 +9,9 @@
 - 🌱 I’m currently learning React.js and Node.js
 
 ### 📚 Interests
-<p>
-	<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" height="30" width="30">
-	<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" height="30" width="30">
-	<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="30" width="30">
-	<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" height="30" width="30">
-	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="30" width="30">
-	<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" height="30" width="30">
-	<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" height="30" width="30">
-</p>
+
+|<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" width="60"> |<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" width="60"> |<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="60"> |<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" width="60"> |<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" height="30" width="30"> |<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="60">|<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" width="60">|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### 📫 Contacts:
 
