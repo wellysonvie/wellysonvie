@@ -10,7 +10,7 @@
 
 ### 📚 Interests
 
-|<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" width="30"> |<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" width="30"> |<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="30"> |<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" width="30"> |<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="30"> |<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="30">|<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" width="30">|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30">|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### 📫 Contacts:
