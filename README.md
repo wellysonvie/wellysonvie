@@ -5,7 +5,7 @@
 -->
 ### 👨‍💻 Profile
 - 🎓 I'm a bachelor of Computer Science
-- 🔭 I’m currently working with PHP
+- 🔭 I’m currently working with PHP and Laravel
 - 🌱 I’m currently learning ReactJS and Vue.js
 
 ### 📚 Interests
