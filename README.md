@@ -16,7 +16,7 @@
 ### 📫 Contacts:
 
 <p>
-	<a target="_blank" href="https://www.linkedin.com/in/wellyson-vieira-b0651b178">
+	<a target="_blank" href="https://linkedin.com/in/wellysonvie">
 		<img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="20">
 	</a>&nbsp;
 	<a target="_blank" href="mailto:wellysonvie@gmail.com">
