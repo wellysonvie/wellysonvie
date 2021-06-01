@@ -13,7 +13,7 @@
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30">|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-### 📫 Contacts:
+### 📫 Contacts
 
 <p>
 	<a target="_blank" href="mailto:wellysonvie@gmail.com">
