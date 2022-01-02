@@ -15,10 +15,10 @@
 ### 🛠 Interests
 
 <div>
-    <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" width="40">&nbsp;
-    <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" width="40">&nbsp;
-    <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" width="40">&nbsp;
-    <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" width="40">&nbsp;
-    <img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" width="40">
+    <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" width="40" title="HTML5">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" width="40" title="CSS3">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" width="40" title="JavaScript">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" width="40" title="ReactJS">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" width="40" title="Angular">
 </div>
 <!-- <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wellysonvie&layout=compact&theme=light'> -->
