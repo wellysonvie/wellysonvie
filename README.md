@@ -10,7 +10,7 @@
 ### 👨‍💻 Profile
 - 🎓 I'm a bachelor of Computer Science
 - 🔭 I’m currently working as web front-end
-- 📚 I’m currently learning Angular
+- 📚 I’m currently learning React.js, Next.js and TypeScript
 
 ### 🛠 Interests
 
@@ -18,7 +18,9 @@
     <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" width="40" title="HTML5">&nbsp;
     <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" width="40" title="CSS3">&nbsp;
     <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" width="40" title="JavaScript">&nbsp;
-    <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" width="40" title="ReactJS">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" width="40" title="JavaScript">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" width="40" title="React.js">&nbsp;
+    <img src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" width="40" title="Next.js">&nbsp;
     <img src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" width="40" title="Angular">
 </div>
 <!-- <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wellysonvie&layout=compact&theme=light'> -->
